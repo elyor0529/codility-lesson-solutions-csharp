@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Gap", "Binary_Gap\Binary_Gap.csproj", "{D404D824-A045-4CA1-93AE-3F2EDDB31F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd_Occurences_In_Array", "Odd_Occurences_In_Array\Odd_Occurences_In_Array.csproj", "{C48C4658-9896-4E2F-AFAA-EB28F282F3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tape_Equilibrium", "Tape_Equilibrium\Tape_Equilibrium.csproj", "{A6AFF405-F871-4D2B-905C-1B2197551A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perm_Element_Missing", "Perm_Element_Missing\Perm_Element_Missing.csproj", "{E05019C1-C1D8-4AB8-9E85-412A1B6EF5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_Jump", "From_Jump\From_Jump.csproj", "{46526AB0-F8B1-4459-AA11-C5E619F74F92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D404D824-A045-4CA1-93AE-3F2EDDB31F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404D824-A045-4CA1-93AE-3F2EDDB31F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404D824-A045-4CA1-93AE-3F2EDDB31F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404D824-A045-4CA1-93AE-3F2EDDB31F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48C4658-9896-4E2F-AFAA-EB28F282F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48C4658-9896-4E2F-AFAA-EB28F282F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48C4658-9896-4E2F-AFAA-EB28F282F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48C4658-9896-4E2F-AFAA-EB28F282F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6AFF405-F871-4D2B-905C-1B2197551A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AFF405-F871-4D2B-905C-1B2197551A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AFF405-F871-4D2B-905C-1B2197551A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AFF405-F871-4D2B-905C-1B2197551A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05019C1-C1D8-4AB8-9E85-412A1B6EF5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05019C1-C1D8-4AB8-9E85-412A1B6EF5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05019C1-C1D8-4AB8-9E85-412A1B6EF5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05019C1-C1D8-4AB8-9E85-412A1B6EF5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46526AB0-F8B1-4459-AA11-C5E619F74F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46526AB0-F8B1-4459-AA11-C5E619F74F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46526AB0-F8B1-4459-AA11-C5E619F74F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46526AB0-F8B1-4459-AA11-C5E619F74F92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
